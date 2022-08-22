@@ -2,7 +2,7 @@
 
 # Development
 
-If you'd like to develop on `employee-salary-management` do the following.
+If you'd like to check on `employee-salary-management` do the following.
 
 ## Local install
 
