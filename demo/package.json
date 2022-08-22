@@ -1,0 +1,20 @@
+{
+  "name": "test-ra",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "yarn --check-files && PORT=4455 GENERATE_SOURCEMAP=true ../node_modules/.bin/react-scripts start"
+  },
+  "homepage": "https://github.com/sanjeevan7/employee-salary-management",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
